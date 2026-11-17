@@ -16,7 +16,7 @@ Building end-to-end products from Buenos Aires, Argentina.
 
 I'm a Full Stack Developer with almost 2 years of experience building **Sudocu**, the SIU document management platform implemented at **UNGS**. I work end-to-end with Angular, NestJS, TypeScript, Java/Spring Boot and PostgreSQL, and I care about clean APIs, testing and reliable deployments.
 
-- 🔭 Currently working on **Sudocu / MPD** at UNGS
+- 🔭 Currently working on **Sudocu** at UNGS
 - 🌱 Deepening **Java 21 + Spring Boot** and distributed systems
 - 🧩 Interested in backend, APIs, microservices and developer experience
 - 📍 Buenos Aires, Argentina
